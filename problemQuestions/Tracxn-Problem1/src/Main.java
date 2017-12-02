@@ -8,7 +8,8 @@ public class Main {
         Scanner input = new Scanner(System.in);
         String message = input.nextLine();
         Validatator validatator = new Validatator(message);
-        validatator.validate();
-
+//        validatator.validate();
+        Boolean ressult =  validatator.validateUseCase(1, message);
+        System.out.println(ressult);
     }
 }

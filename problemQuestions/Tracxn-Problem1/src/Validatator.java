@@ -65,7 +65,7 @@ public class Validatator {
     }
 
     public Boolean validateCharacterTypes(String message) {
-        String regex = "\\d+|\\.+";
+        String regex = "\\d+(\\.\\d+)+";
         Pattern pattern = Pattern.compile(regex);
         Matcher m = pattern.matcher(message);
         if (m.matches()) {
@@ -147,7 +147,7 @@ public class Validatator {
 //            }
 //        }
 //        String messageWithoutDummyData = String.join(",", updatedWords);
-//        return  messageWithoutDummyData;
+//        return  messageWithoutDummyData = String.join(",", updatedWords);
         return "";
     }
 }
