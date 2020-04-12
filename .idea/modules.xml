@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/IO/IO.iml" filepath="$PROJECT_DIR$/IO/IO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/abstract-classes/abstract-classes.iml" filepath="$PROJECT_DIR$/abstract-classes/abstract-classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data-structures/adt/adt.iml" filepath="$PROJECT_DIR$/data-structures/adt/adt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/algorithms/algo.binarySearch/algo.binarySearch.iml" filepath="$PROJECT_DIR$/algorithms/algo.binarySearch/algo.binarySearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/algorithms/algo.insertionSort/algo.insertionSort.iml" filepath="$PROJECT_DIR$/algorithms/algo.insertionSort/algo.insertionSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/algorithms/algo.linear-search/algo.linear-search.iml" filepath="$PROJECT_DIR$/algorithms/algo.linear-search/algo.linear-search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/algorithms/algo.mergeSort/algo.mergeSort.iml" filepath="$PROJECT_DIR$/algorithms/algo.mergeSort/algo.mergeSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/algorithms/algo.quickSort/algo.quickSort.iml" filepath="$PROJECT_DIR$/algorithms/algo.quickSort/algo.quickSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/algorithms/algo.recursive-binary-search/algo.recursive-binary-search.iml" filepath="$PROJECT_DIR$/algorithms/algo.recursive-binary-search/algo.recursive-binary-search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/algorithms/algo.recursive-linear-search/algo.recursive-linear-search.iml" filepath="$PROJECT_DIR$/algorithms/algo.recursive-linear-search/algo.recursive-linear-search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/algorithms/algo.selectionSort/algo.selectionSort.iml" filepath="$PROJECT_DIR$/algorithms/algo.selectionSort/algo.selectionSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrays/arrays.iml" filepath="$PROJECT_DIR$/arrays/arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data-structures/ds.binaryTree/ds.binaryTree.iml" filepath="$PROJECT_DIR$/data-structures/ds.binaryTree/ds.binaryTree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data-structures/ds.doublylinkedlist/ds.doublylinkedlist.iml" filepath="$PROJECT_DIR$/data-structures/ds.doublylinkedlist/ds.doublylinkedlist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data-structures/ds.hashTable/ds.hashTable.iml" filepath="$PROJECT_DIR$/data-structures/ds.hashTable/ds.hashTable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data-structures/ds.heap/ds.heap.iml" filepath="$PROJECT_DIR$/data-structures/ds.heap/ds.heap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data-structures/ds.linkedlist/ds.linkedlist.iml" filepath="$PROJECT_DIR$/data-structures/ds.linkedlist/ds.linkedlist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data-structures/ds.queue/ds.queue.iml" filepath="$PROJECT_DIR$/data-structures/ds.queue/ds.queue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data-structures/ds.queue.circularLinkedList/ds.queue.circularLinkedList.iml" filepath="$PROJECT_DIR$/data-structures/ds.queue.circularLinkedList/ds.queue.circularLinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data-structures/ds.stack/ds.stack.iml" filepath="$PROJECT_DIR$/data-structures/ds.stack/ds.stack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/problemQuestions/elementFrequency/elementFrequency.iml" filepath="$PROJECT_DIR$/problemQuestions/elementFrequency/elementFrequency.iml" />
+      <module fileurl="file://$PROJECT_DIR$/problemQuestions/hanselProblem/hanselProblem.iml" filepath="$PROJECT_DIR$/problemQuestions/hanselProblem/hanselProblem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interfaces/interfaces.iml" filepath="$PROJECT_DIR$/interfaces/interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-ammunition-dump.iml" filepath="$PROJECT_DIR$/java-ammunition-dump.iml" />
+      <module fileurl="file://$PROJECT_DIR$/list/list.iml" filepath="$PROJECT_DIR$/list/list.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oops/oops.iml" filepath="$PROJECT_DIR$/oops/oops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/problemQuestions/pairInArrayWithSum/pairInArrayWithSum.iml" filepath="$PROJECT_DIR$/problemQuestions/pairInArrayWithSum/pairInArrayWithSum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/problemQuestions/reverseString/reverseString.iml" filepath="$PROJECT_DIR$/problemQuestions/reverseString/reverseString.iml" />
+      <module fileurl="file://$PROJECT_DIR$/problemQuestions/rotatedArray/rotatedArray.iml" filepath="$PROJECT_DIR$/problemQuestions/rotatedArray/rotatedArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/problemQuestions/spiral/spiral.iml" filepath="$PROJECT_DIR$/problemQuestions/spiral/spiral.iml" />
+    </modules>
+  </component>
+</project>
